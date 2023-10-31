@@ -1,4 +1,4 @@
 # questions_and_answers
 
-A new Flutter project.
+A Flutter project.
 
